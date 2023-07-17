@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project screenshot](/public/screenshot1.jpg)
+![Project screenshot](./public/screenshot1.jpg)
 
 ### Links
 
